@@ -10,8 +10,8 @@ If you find any issues with the data or want to contribute improvements, please 
 
 ## License
 
-This India State Boundary GeoJSON data is provided under the [Open Database License (ODbL)](./LICENSE), which allows you to use, share, and modify the data freely. Please review the license terms for specific details.
+This India State Boundary GeoJSON data is provided under the [Apache 2.0](./LICENSE), which allows you to use, share, and modify the data freely. Please review the license terms for specific details.
 
 ## Acknowledgments
 
-This data is made available thanks to various government agencies and open data initiatives. We acknowledge and appreciate their efforts in providing valuable geographic data for public use.
+This data is made available thanks to https://mapshaper.org/.
